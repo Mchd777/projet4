@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+}
+.tete {
+  background-color: #113CFC;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-top: 30px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 75px;
+  color: #F6F5F5;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.stitre {
+  font-size: 1rem;
+  color: #EEF2F5;
+}
+
+h3 {
+  color: #113CFC;
+  font-style: italic;
+}
+
+body {
+  text-align: center;
+  font-family: 'Verdana', sans-serif;
+}
+
+.haut {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.bas {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.cloud1 {
+  position: relative;
+  left: 190px;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 40px 0 40px;
+}
+.footer-link {
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    }
+    .footer-link:hover {
+      color: #543A3A;
+    }
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 120px auto;
+  line-height: 2;
+}
+
+.compet {
+  text-align: center;
+  line-height: normal;
+}
+
+.flat {
+  width: 15rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.float {
+  float: right;
+  margin-left: 30px;
+  width: 15rem;
+  margin-bottom: auto;
+}
+
+.profile {
+  width: 35%;
+  display: inline-block;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+
+.Salut {
+  color: #064ACB;
+  font-size: 2rem;
+}
+
+hr {
+  border-top: 5px dotted red;
+  width: 4.375rem;
+  border-bottom: none;
+
+}
+
+.competences {
+  color: #064ACB;
+}
+
+.main {
+  font-size: 2em;
+  color: #064ACB;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.dmain {
+  color: #064ACB;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.compet2 {
+  line-height: normal;
+}
+
+.btn {
+  background: #3498db;
+  background-image: linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 3px 6px 3px 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.descrip {
+  line-height: normal;
+}
+.pied {
+font-size: 25%;
+}
